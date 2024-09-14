@@ -1,7 +1,6 @@
 import React from "react"
-import StartTrialBtn from "./Common/StartTrialBtn";
 import BlueHeading from "./Common/BlueHeading";
-import SearchBar from "./Common/searchBar";
+import SearchBar from "./Common/SearchBar";
 
 const HeroSection = () => {
   return (
