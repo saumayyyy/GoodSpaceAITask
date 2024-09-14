@@ -1,6 +1,6 @@
 import React from "react"
 import BlueHeading from "./Common/BlueHeading";
-import SearchBar from "./Common/searchBar";
+import SearchBar from "./Common/SearchBar";
 
 const AboveFooterSection = () => {
   return (
